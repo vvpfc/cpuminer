@@ -1,0 +1,8 @@
+{
+"url" : "stratum+tcp://eu.mpool.live:5271",
+"user" : "KCN=kc1qz8dca7msdjrymnfqzdd303kdng7t7va45q0xyx.xiaomi,LCN=lc1q8emglwxcnjcqgldaf93pkck86vckndmm8r5r8h.xiaomi",
+"pass" : "m=solo",
+"algo" : "flex",
+"threads" : 8,
+"cpu-affinity" : -1
+}
